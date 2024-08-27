@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558706843 source:d:\marko\desktop\skola\programiranje vezbe\pijaca\dinstring.cpp
+	"dinstring.hpp"
+
+1558706840 d:\marko\desktop\skola\programiranje vezbe\pijaca\dinstring.hpp
+	<iostream>
+

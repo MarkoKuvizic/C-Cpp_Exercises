@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518029963 source:d:\marko\desktop\programiranje vezbe\loto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1518033563 source:d:\marko\desktop\skola\programiranje vezbe\loto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551611076 source:d:\marko\desktop\skola\projekti\projekatucenik\projekatucenik\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Ucenik.hpp"
+
+1551605377 d:\marko\desktop\skola\projekti\projekatucenik\projekatucenik\djackaknjizica.hpp
+
+1551610915 d:\marko\desktop\skola\projekti\projekatucenik\projekatucenik\ucenik.hpp
+	<cstdlib>
+	"Skola.hpp"
+	"DjackaKnjizica.hpp"
+
+1551602061 d:\marko\desktop\skola\projekti\projekatucenik\projekatucenik\skola.hpp
+

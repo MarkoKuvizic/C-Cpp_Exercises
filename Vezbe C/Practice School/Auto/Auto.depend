@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551950302 source:d:\marko\desktop\skola\programiranje vezbe\auto\main.cpp
+	<iostream>
+	"menjac.hpp"
+	"Skoljka.hpp"
+
+1551950322 d:\marko\desktop\skola\programiranje vezbe\auto\menjac.hpp
+	<iostream>
+
+1551950322 d:\marko\desktop\skola\programiranje vezbe\auto\skoljka.hpp
+	<iostream>
+

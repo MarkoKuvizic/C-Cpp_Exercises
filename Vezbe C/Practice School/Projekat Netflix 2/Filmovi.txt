@@ -1,0 +1,28 @@
+
+
+------------------------------------------------
+
+
+Naziv:aaa
+
+Ime Rezisera:  vvv
+
+Zanr: ccc
+
+Datum: 02.02.2002.
+
+Ime Glumca: ggg Datum Rodjenja: 02.02.2002.
+
+Ime Glumca: eee Datum Rodjenja: 02.02.2002.
+
+Ime Glumca: hhh Datum Rodjenja: 02.02.2002.
+
+Ime Glumca: eee Datum Rodjenja: 02.02.2002.
+
+Ime Glumca: hhh Datum Rodjenja: 02.02.2002.
+
+Prosecna ocena: 5.000000
+
+Broj Ocena: 22
+
+Duzina Trajanja: 156

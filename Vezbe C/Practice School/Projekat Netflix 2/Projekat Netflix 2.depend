@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544274868 source:d:\marko\desktop\skola\projekti\projekat netflix 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
