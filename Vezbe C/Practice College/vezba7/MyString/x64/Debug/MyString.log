@@ -1,0 +1,11 @@
+﻿  MyString.cpp
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(10,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(30,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(85,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(96,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(106,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(139,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(125): warning C4172: returning address of local variable or temporary
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(146): warning C4172: returning address of local variable or temporary
+D:\Marko\Desktop\fax\oop2\vezba7\MyString\MyString.cpp(151): warning C4172: returning address of local variable or temporary
+  MyString.vcxproj -> D:\Marko\Desktop\fax\oop2\vezba7\MyString\x64\Debug\MyString.exe

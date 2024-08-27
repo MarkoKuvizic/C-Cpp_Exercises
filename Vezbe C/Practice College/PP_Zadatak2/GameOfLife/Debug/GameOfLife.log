@@ -1,0 +1,11 @@
+﻿  GameOfLife.cpp
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.h(10,2): warning C4091: 'typedef ': ignored on left of 'InitModel' when no variable is declared
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(145,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(157,24): warning C4018: '<': signed/unsigned mismatch
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(158,25): warning C4018: '<': signed/unsigned mismatch
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(162,43): warning C4309: '=': truncation of constant value
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(183,31): warning C4018: '<=': signed/unsigned mismatch
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(184,32): warning C4018: '<=': signed/unsigned mismatch
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(197,24): warning C4018: '<': signed/unsigned mismatch
+D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\GameOfLife\GameOfLife.cpp(198,25): warning C4018: '<': signed/unsigned mismatch
+  GameOfLife.vcxproj -> D:\Marko\Desktop\fax\4. semestar\Paralelno programiranje\VJEŽBE\v07_zadatak_02\PP_Zadatak2\Debug\GameOfLife.exe
